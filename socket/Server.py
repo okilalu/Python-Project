@@ -6,7 +6,7 @@ import time
 # print("Hello")
 
 HEADER = 64
-PORT = 5000
+PORT = 5050
 # SERVER = "192.168.88.1"
 SERVER = socket.gethostbyname(socket.gethostname())
 # print(SERVER)  # or
